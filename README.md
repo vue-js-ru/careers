@@ -1,4 +1,8 @@
 # Vue.js Careers - обсуждения работы, вакансий и резюме
+
+- Канал в Telegram: [@vuejs_careers_feed](https://t.me/vuejs_careers_feed)
+- Чат обсуждений в Telegram: [@vuejs_careers](https://t.me/vuejs_careers)
+- Нормы Поведения (Code of Conduct): https://github.com/vue-js-ru/code-of-conduct
 Размещаются вакансии и резюме русскоязычных Vue.js разработчиков в первую очередь.
 Также допускаются Frontend/JavaScript позиции без Vue.js, в том числе не русскоязычные.
 
